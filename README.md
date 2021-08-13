@@ -24,4 +24,9 @@ In style.css,
 
 Screenshots:
 
+![screen-1](https://github.com/jyothybaby/08-Updated-Portfolio/blob/main/Screenshots/screenshot-1.png)<br>
+![screen-2](https://github.com/jyothybaby/08-Updated-Portfolio/blob/main/Screenshots/screenshot-2.png)<br>
+![screen-3](https://github.com/jyothybaby/08-Updated-Portfolio/blob/main/Screenshots/screenshot-3.png)<br>
+
+
 
