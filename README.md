@@ -17,6 +17,12 @@ In style.css,
 1. Changed the CSS style sheet according to the use of semantic elements.
 2. Commented my changes in .css file.
 
+Resume & LinkedIn profile,
+    Resume: Updated resume with project-1 information available in PDF format.
+    LinkedIn: LinkedIn is updated with course information with GitHub URL.
+
+Email-id, resume, LinkedIn, GitHub links are availble under "Links" section
+
 <b>Links for the project:</b><br>
 
 1. GitHub repository URL: https://github.com/jyothybaby/08-Updated-Portfolio
